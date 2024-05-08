@@ -6,7 +6,7 @@ This project demonstrates how to use polynomial regression in Python to predict 
 
 The dataset used in this project contains two columns: 'YearsExperience' and 'Salary'. It consists of a list of employees with their corresponding years of experience and salaries.
 
-You can find the dataset [here](link-to-dataset).
+You can find the dataset present in the name of position_salaries.csv
 
 ## Dependencies
 
